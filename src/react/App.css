@@ -1,0 +1,10 @@
+body {
+  background: radial-gradient(circle farthest-side, #fcca27, #ea8d1a);
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
